@@ -1,5 +1,5 @@
 #Data
-data <- read.csv("videoTable.csv", TRUE, ",")
+data <- read.csv("./videos/videoTable.csv", TRUE, ",")
 class(data)
 head(data)
 
